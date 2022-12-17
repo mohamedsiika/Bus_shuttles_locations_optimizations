@@ -1,0 +1,9 @@
+osmnx
+networkx
+plotly-express
+scikit-learn
+pandas
+numpy
+seaborn
+matplotlib
+requests
